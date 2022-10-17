@@ -30,7 +30,7 @@ twitter_username: imsriramb
 github_username:  sriram23
 
 # Build settings
-theme: minima
+theme: jekyll-theme-clean-blog
 plugins:
   - jekyll-feed
 
