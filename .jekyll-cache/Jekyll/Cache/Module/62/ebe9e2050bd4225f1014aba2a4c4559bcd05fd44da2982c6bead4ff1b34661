@@ -1,4 +1,4 @@
-I"L
+I"K
 
 <div class="masthead">
   <div class="masthead__inner-wrap">
@@ -10,17 +10,7 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/docs/quick-start-guide/">Quick-Start Guide</a>
-            </li><li class="masthead__menu-item">
-              <a href="/year-archive/">Posts</a>
-            </li><li class="masthead__menu-item">
-              <a href="/categories/">Categories</a>
-            </li><li class="masthead__menu-item">
-              <a href="/tags/">Tags</a>
-            </li><li class="masthead__menu-item">
-              <a href="/page-archive/">Pages</a>
-            </li><li class="masthead__menu-item">
-              <a href="/collection-archive/">Collections</a>
+              <a href="/docs/quick-start-guide/">Posts</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
