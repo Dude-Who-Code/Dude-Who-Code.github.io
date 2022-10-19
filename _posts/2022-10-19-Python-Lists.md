@@ -1,7 +1,10 @@
 ---
-layout: post
-title:  "Python Lists"
+layout: splash
+classes:
+  - landing
+  - dark-theme
 ---
+
 # Lists in Python
 List in python is a built in data type for storing multiple values in a single variable.
 Example list: `a = [1,2,3,4,"a","b","c","d",3,2,1,True,False]`
@@ -84,6 +87,7 @@ someList[::2] # Will contain [1,3,5,7] (Steps)
 someList[::-1] # Will contain [8,7,6,5,4,3,2,1] (Reverse)
 ```
  - Copying list
+ 
 ```python
 someList = ["a","b","c","d"]
 copyList = someList # Both will be same now
